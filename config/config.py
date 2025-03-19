@@ -24,7 +24,6 @@ CONFIG = {
     },
     "transform": {
         "timestamp_format": 'dd/MMM/yyyy:HH:mm:ss Z',
-        "endpoint_categories": ['images', 'shuttle', 'software', 'history', 'finance', 'icons', 'news', 'statistics', 'facts', 'news'],
-        'categories': ['images', 'icons']
+        "endpoint_categories": ['images', 'shuttle', 'software', 'history', 'finance', 'icons', 'news', 'statistics', 'facts', 'news']
     }
 }
